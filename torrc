@@ -2,3 +2,5 @@ SocksPort 9050
 SocksPort 9052
 SocksPort 9053
 SocksPort 9054
+HiddenServicePort 80 127.0.0.1:80
+HiddenServicePort 22 127.0.0.1:8080
